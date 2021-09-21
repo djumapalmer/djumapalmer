@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @djumapalmer
-- 👀 I’m interested in Xamarin, C# and Java
+- 👀 I’m interested in Xamarin, C#,Java and Asp.Net
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate to anything related to programming
 - 📫 reach me : https://www.linkedin.com/in/djuma-palmer-471445185/
